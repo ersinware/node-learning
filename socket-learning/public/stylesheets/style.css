@@ -1,0 +1,16 @@
+body {
+  padding: 3em;
+  font-family: Helvetica, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+button {
+  padding: 0.3em 1em;
+}
+
+button[id='send'] {
+  margin-right: 1em;
+}

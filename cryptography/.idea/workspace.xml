@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83f05670-715f-430b-9346-3798d48976d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/assets/person-logo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/static/person-logo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/assets/platform-logo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/static/platform-logo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/AboutMe.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/AboutMe.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/Contact.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/Contact.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/Expertise.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/Expertise.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/Projects.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/Projects.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/Resume.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/Resume.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/introduction/Header.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/introduction/Header.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/introduction/Introduction.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/components/pages/introduction/Introduction.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/lib/server/db/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/lib/server/db/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yasin-satar/src/routes/(app)/[[lang=lang]]/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../yasin-satar/src/routes/(app)/[[lang=lang]]/+layout.svelte" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29nqmTvCxkKVbJJVUfNcRqlOTO4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "18.15.0",
+    "javascript.nodejs.core.library.typings.version": "18.15.0",
+    "last_opened_file_path": "/home/ersinware/WebStormProjects/node/cryptography",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Node.js.createKeyPair.js">
+    <configuration name="createKeyPair.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/createKeyPair.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="verifyIdendity.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/verifyIdendity.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.createKeyPair.js" />
+        <item itemvalue="Node.js.verifyIdendity.js" />
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83f05670-715f-430b-9346-3798d48976d2" name="Changes" comment="" />
+      <created>1680021596265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680021596265</updated>
+      <workItem from="1680021597611" duration="148000" />
+      <workItem from="1680260996221" duration="308000" />
+      <workItem from="1685893189367" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

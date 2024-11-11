@@ -1,0 +1,54 @@
+#!/usr/bin/env node
+
+const SECURE_APP_PORT = 3333
+
+const secureApp = require('../app')
+secureApp.set('port', SECURE_APP_PORT)
+
+const fs = require('fs')
+const debug = require('debug')('express-learning:server')
+const secureServer = require('https')
+  .createServer({
+      key: fs.readFileSync('bin/key.pem'),
+      cert: fs.readFileSync('bin/cert.pem')
+    },
+    secureApp)
+  .on('listening', function() {
+    const address = this.address()
+    const bind = typeof address === 'string' ? 'pipe ' + address : 'port ' + address.port
+    debug('listening on ' + bind)
+  })
+  .on('error', function(error) {
+    if (error.syscall !== 'listen') throw error
+
+    switch (error.code) {
+      case 'EACCES':
+        console.error(this.port + ' requires elevated privileges')
+        process.exit(1)
+        break
+      case 'EADDRINUSE':
+        console.error(this.port + ' is already in use')
+        process.exit(1)
+        break
+      default:
+        throw error
+    }
+  })
+
+const wss = require('./wss')
+
+secureServer.on('upgrade', (req, socket, head) => {
+  // This function is not defined on purpose. Implement it with your own logic.
+  // authenticate(request, function next(err, client) {
+  //   if (err || !client) {
+  //     socket.write('HTTP/1.1 401 Unauthorized\r\n\r\n')
+  //     socket.destroy()
+  //     return
+  //   }
+
+  wss.handleUpgrade(req, socket, head, ws => {
+    wss.emit('connection', ws, req)
+  })
+})
+
+secureServer.listen(SECURE_APP_PORT)

@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  script(src='/javascripts/socketClient.js' defer)
+
+  h1= title
+  p Welcome to #{title}
+  br
+  br
+  button(id='send') SEND
+  button(id='close') CLOSE

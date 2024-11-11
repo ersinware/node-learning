@@ -1,0 +1,11 @@
+html {
+    font-family: Helvetica, 'sans-serif';
+}
+
+body {
+    padding: 2em;
+}
+
+button {
+    padding: 0.5em 2em;
+}

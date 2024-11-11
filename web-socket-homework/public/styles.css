@@ -1,0 +1,153 @@
+/* Existing styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.chat-container {
+    width: 800px;
+    max-width: 100%;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.chat-header {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.chat-main {
+    display: flex;
+}
+
+.chat-sidebar {
+    background: #f4f4f4;
+    width: 200px;
+    padding: 20px;
+    border-right: 1px solid #ccc;
+}
+
+.chat-sidebar h3 {
+    margin-bottom: 10px;
+}
+
+.chat-sidebar ul {
+    list-style: none;
+}
+
+.chat-sidebar ul li {
+    padding: 5px 0;
+}
+
+.chat-messages {
+    flex: 1;
+    padding: 20px;
+    overflow-y: scroll;
+    height: 400px;
+}
+
+.message {
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #f1f1f1;
+    border-radius: 5px;
+}
+
+.message .meta {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.message .text {
+    font-size: 14px;
+    color: #333;
+}
+
+.chat-form-container {
+    background: #333;
+    padding: 20px;
+}
+
+.chat-form-container form {
+    display: flex;
+}
+
+.chat-form-container input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.chat-form-container input[type="file"] {
+    margin-right: 10px;
+}
+
+.chat-form-container button {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.chat-form-container button:hover {
+    background: #555;
+}
+
+.file-icon {
+    cursor: pointer;
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: white;
+
+    transition: fill .25s ease-in-out;
+}
+
+#chat-form,
+label {
+    display: flex;
+    align-items: center;
+}
+
+.send-container {
+    position: relative;
+}
+
+#file {
+    position: absolute;
+    display: none;
+}
+
+label {
+    display: block;
+    margin-top: .25rem;
+    margin-right: .25rem;
+}
+
+.file-icon:hover {
+    fill: orange
+}
+
+#users>* {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}

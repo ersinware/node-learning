@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="348a3048-4230-4eb6-8f0a-9bda2769d3f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/http/cluster.js" beforeDir="false" afterPath="$PROJECT_DIR$/http/cluster.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workerThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/workerThread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../note- dotenv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/redis.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/production-optimization/redis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/lib/server/javascript/jwt.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/lib/server/javascript/jwt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/api/user/refresh-token/+server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/api/user/refresh-token/+server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/api/user/sign-out/+server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/api/user/sign-out/+server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/service-worker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/service-worker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/service-worker/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/service-worker/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/production-optimization/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/production-optimization/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/production-optimization/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/production-optimization/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/production-optimization/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/production-optimization/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="283OjQldyZOk5VnMfzZefhcqJJj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "18.15.0",
+    "javascript.nodejs.core.library.typings.version": "18.15.0",
+    "last_opened_file_path": "/home/ersinware/WebStormProjects/node/node-learning",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.workerThread.js">
+    <configuration name="cluster.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/http/cluster.js" working-dir="$PROJECT_DIR$/http">
+      <method v="2" />
+    </configuration>
+    <configuration name="events.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/events/events.js" working-dir="$PROJECT_DIR$/events">
+      <method v="2" />
+    </configuration>
+    <configuration name="moduleTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/modules/moduleTest.js" working-dir="$PROJECT_DIR$/modules">
+      <method v="2" />
+    </configuration>
+    <configuration name="workerThread.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/workerThread.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="worker.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/worker.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.workerThread.js" />
+        <item itemvalue="Node.js.worker.js" />
+        <item itemvalue="Node.js.cluster.js" />
+        <item itemvalue="Node.js.moduleTest.js" />
+        <item itemvalue="Node.js.events.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="348a3048-4230-4eb6-8f0a-9bda2769d3f8" name="Changes" comment="" />
+      <created>1681642263772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681642263772</updated>
+      <workItem from="1681642265287" duration="2221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

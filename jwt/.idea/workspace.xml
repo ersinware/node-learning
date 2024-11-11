@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53faa686-d648-4e8f-9027-61e2d6b84552" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/lib/server/javascript/jwt.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/lib/server/javascript/jwt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/+layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/+layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/+layout.server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/+layout.server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/+layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/api/user/refresh-token/+server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/api/user/refresh-token/+server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/panel/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/../../svelte-learning/membership/src/routes/panel/+page.svelte" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29qamhGMcMpJP0U3T5FsZVtru7F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.15.0",
+    "javascript.nodejs.core.library.typings.version": "18.15.0",
+    "last_opened_file_path": "/home/ersinware/WebStormProjects/node/jwt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53faa686-d648-4e8f-9027-61e2d6b84552" name="Changes" comment="" />
+      <created>1680261301426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680261301426</updated>
+      <workItem from="1680261303108" duration="6223000" />
+      <workItem from="1680362337497" duration="1227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

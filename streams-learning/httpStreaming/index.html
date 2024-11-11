@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>video streaming</title>
+    <style>
+        body {
+            font-family: Helvetica, 'sans-serif';
+        }
+
+        video {
+            margin-top: 2em;
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%);
+            max-height: 500px;
+        }
+
+        a {
+            display: block;
+            padding-top: 1em;
+            margin-left: 4em;
+        }
+    </style>
+</head>
+<body>
+<video controls muted autoplay>
+    <source src="/video" type="video/mp4"/>
+</video>
+
+<br>
+
+<a href="/video" download>download the video</a>
+</body>
+</html>
